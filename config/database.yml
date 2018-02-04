@@ -7,12 +7,12 @@ default: &default
 
 development:
   <<: *default
-  database: nosso_amigo_secreto_development
+  database: nosso_amigo_secreto_video_development
 
 test:
   <<: *default
-  database: nosso_amigo_secreto_test
+  database: nosso_amigo_secreto_video_test
 
 production:
   <<: *default
-  database: nosso_amigo_secreto_production
+  database: nosso_amigo_secreto_video_production

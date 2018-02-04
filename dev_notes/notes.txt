@@ -7,3 +7,4 @@
   - Home view
     - Verificar por que o botão de criar não está levando para a página correta
   - Campaign Index
+  - Campaign show

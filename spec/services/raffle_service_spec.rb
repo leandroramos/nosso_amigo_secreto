@@ -7,7 +7,7 @@ describe RaffleService do
   end
 
   describe '#call' do
-    context "when has more than two members" do
+    context "when has more then two members" do
       before(:each) do
         create(:member, campaign: @campaign)
         create(:member, campaign: @campaign)
@@ -51,7 +51,7 @@ describe RaffleService do
         @response = RaffleService.new(@campaign).call
       end
 
-      it "raise error" do
+      it "return false" do
         expect(@response).to eql(false)
       end
     end
