@@ -3,4 +3,5 @@
   - Fazer os testes do controller member
 - Criação das views
   - Partial header
-    - 
+  - Partial footer
+
