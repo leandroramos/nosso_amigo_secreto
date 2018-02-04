@@ -10,3 +10,5 @@
   - Campaign show
   - Coffee da Campanha
     - Muito interessante
+- Emails
+  - Estudar o uso do Foundation para criar e-mails responsivos
