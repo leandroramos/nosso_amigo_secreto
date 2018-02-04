@@ -1,0 +1,6 @@
+- Criação do controller Member
+  - Tenho que entender melhor o lance do pixel invisível no e-mail, que envia o token
+  - Fazer os testes do controller member
+- Criação das views
+  - Partial header
+    - 
