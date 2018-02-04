@@ -4,4 +4,5 @@
 - Criação das views
   - Partial header
   - Partial footer
-
+  - Home view
+  
