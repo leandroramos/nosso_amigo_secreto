@@ -12,3 +12,7 @@
     - Muito interessante
 - Emails
   - Estudar o uso do Foundation para criar e-mails responsivos
+- Docker em produção
+  - Treinar muito isso
+- Digital Ocean
+  - Não se esquecer de cancelar a conta antes de começarem a cobrar
